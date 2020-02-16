@@ -44,6 +44,7 @@ fun makeList(n : Int) : ArrayList<Int>{
 }
 
 fun greatestСommonFactor(a : Int, b : Int) : Int{
+    if (a == 0 || b == 0) return 1
      val small = if (a > b) b else a
      val big = if (a > b) a else b
     for (n in small downTo 1){
@@ -60,6 +61,7 @@ fun greatestСommonFactor(a : Int, b : Int) : Int{
 }
 
 tailrec fun recursedGreatestСommonFactor(sum : Int, num : Int, smallestNumber : Int) : Int{
+    if (sum == 0 || num == 0) return 1
     if (sum % smallestNumber == 0 && num % smallestNumber == 0) {
         return smallestNumber
     }
