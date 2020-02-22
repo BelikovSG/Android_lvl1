@@ -1,0 +1,87 @@
+Введите количество участников команд:
+3
+Начало битвы!
+Team №1 health is 1300, teamMembers №2 health is 1400
+Warrior StormTrooper from team №1 attacked Scout
+Warrior Scout from team №2 attacked StormTrooper
+Warrior Infantryman from team №1 attacked Scout
+Warrior Scout from team №2 attacked StormTrooper
+Warrior Scout from team №1 attacked Scout
+Warrior StormTrooper from team №2 attacked StormTrooper
+Round 1 is over
+Team №1 health is 1080, teamMembers №2 health is 1250
+Warrior Infantryman from team №1 attacked StormTrooper
+Warrior StormTrooper from team №2 attacked Infantryman
+Warrior Scout from team №1 attacked StormTrooper
+Warrior Scout from team №2 attacked Infantryman
+Warrior StormTrooper from team №1 attacked StormTrooper
+Warrior Scout from team №2 attacked Infantryman
+Round 2 is over
+Team №1 health is 890, teamMembers №2 health is 950
+Warrior StormTrooper from team №1 attacked Scout
+Warrior Scout from team №2 attacked StormTrooper
+Warrior Infantryman from team №1 attacked Scout
+Warrior Scout from team №2 attacked StormTrooper
+Warrior Scout from team №1 attacked Scout
+Warrior StormTrooper from team №2 attacked StormTrooper
+Round 3 is over
+Team №1 health is 820, teamMembers №2 health is 900
+Warrior Scout from team №1 attacked Scout
+Warrior Scout from team №2 attacked Scout
+Warrior StormTrooper from team №1 attacked Scout
+Warrior StormTrooper from team №2 attacked Scout
+Warrior Infantryman from team №1 attacked Scout
+Warrior Scout from team №2 attacked Scout
+Round 4 is over
+Team №1 health is 700, teamMembers №2 health is 810
+Warrior Scout from team №1 attacked StormTrooper
+Warrior StormTrooper from team №2 attacked Scout
+Warrior StormTrooper from team №1 attacked StormTrooper
+Warrior Scout from team №2 attacked Scout
+Scout was killed!
+Warrior Infantryman from team №1 attacked StormTrooper
+Warrior Scout from team №2 attacked StormTrooper
+Round 5 is over
+Team №1 health is 480, teamMembers №2 health is 610
+Warrior StormTrooper from team №1 attacked Scout
+Warrior Scout from team №2 attacked StormTrooper
+Warrior Infantryman from team №1 attacked Scout
+Warrior StormTrooper from team №2 attacked StormTrooper
+Warrior Scout from team №2 attacked StormTrooper
+Round 6 is over
+Team №1 health is 340, teamMembers №2 health is 610
+Warrior Infantryman from team №1 attacked StormTrooper
+Warrior StormTrooper from team №2 attacked Infantryman
+Warrior StormTrooper from team №1 attacked StormTrooper
+Warrior Scout from team №2 attacked Infantryman
+Warrior Scout from team №2 attacked Infantryman
+Infantryman was killed!
+Round 7 is over
+Team №1 health is 330, teamMembers №2 health is 460
+Warrior StormTrooper from team №1 attacked Scout
+Warrior Scout from team №2 attacked StormTrooper
+Warrior Scout from team №2 attacked StormTrooper
+Warrior StormTrooper from team №2 attacked StormTrooper
+Round 8 is over
+Team №1 health is 190, teamMembers №2 health is 460
+Warrior StormTrooper from team №1 attacked Scout
+Warrior Scout from team №2 attacked StormTrooper
+Warrior Scout from team №2 attacked StormTrooper
+Warrior StormTrooper from team №2 attacked StormTrooper
+Round 9 is over
+Team №1 health is 170, teamMembers №2 health is 460
+Warrior StormTrooper from team №1 attacked StormTrooper
+StormTrooper was killed!
+Warrior StormTrooper from team №2 attacked StormTrooper
+Warrior Scout from team №2 attacked StormTrooper
+Warrior Scout from team №2 attacked StormTrooper
+Round 10 is over
+Team №1 health is 130, teamMembers №2 health is 310
+Warrior StormTrooper from team №1 attacked Scout
+Warrior Scout from team №2 attacked StormTrooper
+Warrior Scout from team №2 attacked StormTrooper
+StormTrooper was killed!
+Round 11 is over
+Team two is win!
+
+Process finished with exit code 0
